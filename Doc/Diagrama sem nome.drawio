@@ -1,0 +1,97 @@
+<mxfile host="app.diagrams.net" modified="2024-05-28T11:55:22.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="24.4.9" etag="b4AvWvSR2ak8fovr5r8V" type="device">
+  <diagram id="GlSBhZ9ob00_pYFFWb3f" name="Página-1">
+    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MtwFnIU1tss62LcVamRA-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="50" width="420" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="50" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-13" value="XXXX" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;" vertex="1" parent="1">
+          <mxGeometry x="340" y="235" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-15" value="NOME" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="235" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-16" value="SENHA" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="300" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-17" value="XXXXX" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;" vertex="1" parent="1">
+          <mxGeometry x="340" y="300" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-19" value="ESQUECEU SENHA" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1140" width="410" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-26" value="RECEBIDOS&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1200" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-27" value="A PAGAR&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1330" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-28" value="IR A DIVIDAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1450" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1680" width="410" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-35" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x" vertex="1" parent="1">
+          <mxGeometry x="230" y="1550" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-36" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+          <mxGeometry x="535" y="1540" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-37" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+          <mxGeometry x="535" y="490" width="55" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="610" width="420" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-42" value="TELA DE INICIO&amp;nbsp;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="630" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-43" value="IR PARA TELA DE CADASTRO&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="740" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-45" value="TELA DE CADASTRO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1694" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-46" value="XXXXX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1780" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-47" value="EMAIL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1770" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-48" value="CONFIRMAR&lt;div&gt;EMAIL&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1820" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-49" value="XXXX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1830" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-50" value="SENHA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1880" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-51" value="XXXX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1890" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-52" value="CONFIRMAR&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1940" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-53" value="XXXX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1950" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-54" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x" vertex="1" parent="1">
+          <mxGeometry x="255" y="2000" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MtwFnIU1tss62LcVamRA-55" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+          <mxGeometry x="535" y="1980" width="60" height="64" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
